@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: markdown-read-to-headline
+message: >-
+  If you use this work and you want to cite it,
+  then you can use the metadata from this file.
+type: software
+authors:
+  - given-names: Joel Parker
+    family-names: Henderson
+    email: joel@joelparkerhenderson.com
+    affiliation: joelparkerhenderson.com
+    orcid: 'https://orcid.org/0009-0000-4681-282X'
+identifiers:
+  - type: url
+    value: 'https://github.com/SixArm/markdown-read-to-headline/'
+    description: markdown-read-to-headline
+repository-code: 'https://github.com/SixArm/markdown-read-to-headline/'
+abstract: >-
+  markdown-read-to-headline
+license: See license file
